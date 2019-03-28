@@ -1,6 +1,6 @@
 # PayU integration using Golang 
 
-<img src="">
+<img src="https://raw.githubusercontent.com/Mindinventory/Golang-PayU/master/payU.png">
 
 ## Requirements : 
  
