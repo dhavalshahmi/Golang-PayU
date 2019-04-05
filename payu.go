@@ -41,7 +41,7 @@ func main() {
 	var name = "UserName"
 	var email = "xyz@gmail.com"
 	var amount = "10.00"
-	var phone = "9932548795"
+	var phone = "0000000000"
 	var surl = os.Getenv("PAYMENT_MIDDLEWARE_URL")
 	var furl = os.Getenv("PAYMENT_MIDDLEWARE_URL")
 	var enforcePaymethod = "creditcard"
